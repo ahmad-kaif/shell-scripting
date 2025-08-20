@@ -1,0 +1,28 @@
+mv
+rm
+echo
+cat
+less
+grep
+mkdir
+touch
+chmod
+man + helo
+
+
+# chmod
+syntax -> chmod u= g= o= filename (user, group, other)
+u = 0 - 7
+0 -> nothing
+1 -> execute
+2 -> write
+3 -> 2+1 -> w+x
+4 -> read
+5 -> 4+1 -> r+write
+6 -> 4+2 -> r+w
+7 -> 4+2+1 -> r+w+x
+
+chmod 7 7 7 filename
+      ^ ^ ^
+      | | |
+      u g o
