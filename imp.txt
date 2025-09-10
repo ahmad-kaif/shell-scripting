@@ -1,3 +1,11 @@
+
+1. Make the file executable ------- chmod +x myscript.sh
+
+
+2. Run the script ------------ ./myscript.sh or bash myscript.sh
+
+
+
 mv
 rm
 echo

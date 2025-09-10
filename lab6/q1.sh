@@ -1,0 +1,11 @@
+Q.1) Create a file input.txt and store the following data in the file
+Name,Age,City,Occupation,Salary
+Alice,30,New York,Engineer,75000
+Bob,25,London,Designer,60000
+Charlie,35,Paris,Manager,90000
+David,28,Berlin,Developer,80000
+Eve,40,Tokyo,Analyst,85000
+
+
+
+#
