@@ -13,7 +13,6 @@ prime(){
     echo "$n is a prime number"
 
 }
-
 echo "enter a number"
 read n
 prime $n
